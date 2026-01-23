@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="optativa_pycicd_jpg",
-    version="1.0.2",
+    name="pomares_optativa_PyCiCd",
+    version="1.0.3",
     author="Javier Pomares Gomez",
     author_email="javierpomaresgomez@gmail.com",
     description="Proyecto de practica",
